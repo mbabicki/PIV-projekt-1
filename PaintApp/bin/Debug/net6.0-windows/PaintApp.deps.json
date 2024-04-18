@@ -12,7 +12,6 @@
           "EntityFramework": "6.4.4",
           "Microsoft.EntityFrameworkCore": "6.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.0",
-          "WPFtoolkitFramework": "1.0.7.5",
           "System.Windows.Forms.VisualStudio.15.0": "4.0.0.0"
         },
         "runtime": {
@@ -330,14 +329,6 @@
           "System.Drawing.Common": "4.7.0"
         }
       },
-      "WPFtoolkitFramework/1.0.7.5": {
-        "runtime": {
-          "lib/net45/WPFtoolkitFramework.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "System.Windows.Forms.VisualStudio.15.0/4.0.0.0": {
         "runtime": {
           "System.Windows.Forms.VisualStudio.15.0.dll": {
@@ -626,13 +617,6 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
-    },
-    "WPFtoolkitFramework/1.0.7.5": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-e1toFkSy4f78Uri2A19cTGURM3QitY2sIh0fDBRaSlt4QMgS/Rs93LwJ3Jya69j9S7OYAfuk0KGrL3UCgKSZZw==",
-      "path": "wpftoolkitframework/1.0.7.5",
-      "hashPath": "wpftoolkitframework.1.0.7.5.nupkg.sha512"
     },
     "System.Windows.Forms.VisualStudio.15.0/4.0.0.0": {
       "type": "reference",

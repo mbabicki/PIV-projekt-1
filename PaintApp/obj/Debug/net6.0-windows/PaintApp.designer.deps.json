@@ -479,14 +479,6 @@
             "fileVersion": "4.700.19.56404"
           }
         }
-      },
-      "WPFtoolkitFramework/1.0.7.5": {
-        "runtime": {
-          "lib/net45/WPFtoolkitFramework.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -763,13 +755,6 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
-    },
-    "WPFtoolkitFramework/1.0.7.5": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-e1toFkSy4f78Uri2A19cTGURM3QitY2sIh0fDBRaSlt4QMgS/Rs93LwJ3Jya69j9S7OYAfuk0KGrL3UCgKSZZw==",
-      "path": "wpftoolkitframework/1.0.7.5",
-      "hashPath": "wpftoolkitframework.1.0.7.5.nupkg.sha512"
     }
   }
 }
